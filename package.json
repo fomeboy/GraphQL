@@ -1,0 +1,24 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "graphql/python bolierplate",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --harmony server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fomeboy/GraphQL.git"
+  },
+  "author": "Fernando Pires",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fomeboy/GraphQL/issues"
+  },
+  "homepage": "https://github.com/fomeboy/GraphQL#readme"
+}
